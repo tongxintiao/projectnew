@@ -1,0 +1,7 @@
+-skin-hasbg #head_wrapper.s-down #form #kw{border-color:#c4c7ce}
+.s-skin-hasbg #head_wrapper.s-down #form #kw:hover{border-color:#a7aab5;opacity:.8;filter:alpha(opacity=80)\9}
+.s-skin-hasbg #head_wrapper.s-down #form #kw:focus{border-color:#4e6ef2!important;opacity:1;filter:alpha(opacity=100)\9}
+.s-skin-hasbg #head_wrapper.s-down #form #kw.new-ipt-focus{border-color:#4e6ef2}
+.s-skin-hasbg #head_wrapper.s-down .s_btn{background:#4e6ef2;color:#fff}
+.s-skin-hasbg #head_wrapper.s-down .s_btn:hover{background-color:#4662d9}
+.s-skin-hasbg #head_wrapper.s-down .s_btn:active{background-color:#4662d9}
